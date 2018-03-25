@@ -1,0 +1,5 @@
+/platforms
+/plugins
+npm-debug.log
+/node_modules
+resources/signing
